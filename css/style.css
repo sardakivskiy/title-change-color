@@ -1,0 +1,28 @@
+body {
+    padding: 20px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 16px;
+    color: #000;
+}
+.title {
+    color: #000;
+    font-size: 40px;
+    margin: 0px 0px 10px 0px;
+}
+button {
+    padding: 10px 15px;
+    border-radius: 40px;
+    margin: 0px 5px 0px 0px;
+}
+button:last-child {
+    margin: 0;
+}
+.red-color {
+    background: red;
+}
+.default {
+    background: rgb(125, 122, 122);
+}
+.green-color {
+    background: green;
+}
